@@ -10,11 +10,27 @@ const config: Config = {
     extend: {
       colors: {
         brand: '#00D2DF',
-        
-        dark10: '#121212',
-        dark20: '#151515',
-        dark30: '#C4C4C4',
-        dark40: '#FFFFFF',
+      
+        gray900: '#121212',
+        gray800: '#1E1E1E',
+        gray700: '#2C2C2C',
+        gray600: '#3D3D3D',
+        gray500: '#494949',
+        gray400: '#575757',
+        gray300: '#636363',
+        gray200: '#717171',
+        gray100: '#7F7F7F',
+        gray90: '#8D8D8D',
+        gray80: '#9B9B9B',
+        gray70: '#AAAAAA',
+        gray60: '#B6B6B6',
+        gray50: '#C4C4C4',
+        gray40: '#E0E0E0',
+        gray30: '#ECECEC',
+        gray20: '#F6F6F6',
+        gray10: '#FAFAFA',
+        gray0: '#FFFFFF',
+
 
         support01: '#2962FF',
         support02: '#0BB07B',
@@ -24,6 +40,7 @@ const config: Config = {
 
         funcional: {
           text: '#FFFFFF',
+          subtext: '#C4C4C4',
           background: '#151515'
         }
       },
